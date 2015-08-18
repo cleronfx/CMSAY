@@ -2,7 +2,7 @@
 # ChannelMaster
 
 ## Was ist ChannelMaster
-ChannelMaster ist eine Sammlung aus mehreren Apps die als Module eingebunden werden. Du kannst die App in deinem MyChannel mit `/apps install knuddelsDEV.30559674.ChannelMaster` installieren.
+ChannelMaster ist eine Sammlung aus mehreren Apps die als Module eingebunden werden. Du kannst die App in deinem MyChannel mit `/apps install knuddelsDEV.30560217.cmsay` installieren.
 
 ## Verfügbare Module
 * [Advertise](README-advertise.md)
