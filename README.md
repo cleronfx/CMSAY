@@ -39,7 +39,7 @@ Gerne kannst du selbst Quellcode beisteuern und die ChannelMaster App zu erweite
 
 
 ## Verantwortlicher Appentwickler
-Verantwortlicher Appentwickler ist **Kapsonfire** (in Knuddels.de /w 68erMaNnHeIm305er).
+Verantwortlicher Appentwickler ist **CleronFX** (in Knuddels.de /w 68erMaNnHeIm305er).
 Ihm obliegt jede Entscheidung ob und unter welchen Bedingungen Änderungen am Code vorgenommen werden.
 
 ## Wichtige Links zum Entwickeln
